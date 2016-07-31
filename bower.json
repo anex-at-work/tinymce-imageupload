@@ -1,0 +1,21 @@
+{
+  "name": "tinymce-imageupload",
+  "repository": "anex-at-work/tinymce-imageupload",
+  "version": "0.1",
+  "homepage": "https://github.com/anex-at-work/tinymce-imageupload",
+  "authors": [
+    "Alex A. <anex.work@gmail.com>"
+  ],
+  "description": "Plugin for TinyMCE for uploading local images (backend independent)",
+  "keywords": [
+    "tinymce",
+    "fileupload",
+    "plugin"
+  ],
+  "license": "MIT",
+  "main": "uploadimage",
+  "dependencies": {
+    "tinymce": ">=4.0"
+  },
+  "main": "plugins/uploadimage/editor_plugin.js"
+}
